@@ -11,7 +11,7 @@ It's designed for structured data systems — like eCommerce and content managem
 
 - ✅ Create SQL Server tables dynamically at runtime
 - ✅ Every field is a **real column**, not a blob or EAV (entity-attribute-value) record
-- ✅ Querying is as fast as possible, and that's what the world needs
+- ✅ Querying should be intuitive and as fast as possible, as that's what the world needs
 - ✅ Define schema in JSON — clean, declarative, and versionable
 - ✅ Enforced types: `nvarchar`, `int`, `bit`, etc. Types that are common in CMS systems like WordPress custom fields or Umbraco document types
 - ✅ Built with .NET + SQL SMO
