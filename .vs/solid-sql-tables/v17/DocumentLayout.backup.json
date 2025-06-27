@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\json\\all-fields.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|solutionrelative:src\\solid-sql-tables.tests\\json\\all-fields.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{564A55F2-EB20-D9F2-3BEB-35168012D04A}|src\\SolidSQLTables\\solid-sql-tables.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solidsqltables\\docs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{564A55F2-EB20-D9F2-3BEB-35168012D04A}|src\\SolidSQLTables\\solid-sql-tables.csproj|solutionrelative:src\\solidsqltables\\docs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|solutionrelative:src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\json\\all-fields.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|solutionrelative:src\\solid-sql-tables.tests\\json\\all-fields.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\SolidSQLTables\\docs\\README.md",
+              "RelativeDocumentMoniker": "src\\SolidSQLTables\\docs\\README.md",
+              "ToolTip": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\SolidSQLTables\\docs\\README.md",
+              "RelativeToolTip": "src\\SolidSQLTables\\docs\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-27T03:32:16.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "all-fields.json",
               "DocumentMoniker": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\json\\all-fields.json",
               "RelativeDocumentMoniker": "src\\solid-sql-tables.tests\\json\\all-fields.json",
@@ -49,7 +66,7 @@
               "RelativeDocumentMoniker": "src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj",
               "ToolTip": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj",
               "RelativeToolTip": "src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-27T03:28:02.628Z",
               "EditorCaption": ""
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "src\\solid-sql-tables.tests\\UnitTest1.cs",
@@ -125,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\solid-sql-tables\\Class1.cs",
               "RelativeDocumentMoniker": "solid-sql-tables\\Class1.cs",

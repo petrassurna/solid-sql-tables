@@ -11,6 +11,14 @@ For a full working example of table creation, see:
 
 The philosophy behind this library is to support the kind of strongly typed SQL schemas that content systems like WordPress *should* use — without relying on blobs, postmeta tables, or EAV patterns.
 
+## 🎯 Installation
+
+Open the solution solid-sql-tables.sln in Visual Studio 2022 or later.
+Libraries in this solution have a docs folder with complete documentation.
+Start by looking at solid-sql-tables.tests/docs.README.md which will show you how to step through the test
+The tests start simply and build in complexity
+They are the fastest way to understand the library.
+
 ---
 
 ## 🔍 Design Principles
