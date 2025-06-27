@@ -17,38 +17,9 @@ It's designed for structured data systems — like eCommerce and content managem
 
 ---
 
-## 🚀 Getting Started
+## 🎯 Installation
 
-### 1. Define your schema
-
-Create a `Product.schema.json` file:
-
-```json
-{
-  "entity": "Product",
-  "schema": "dbo",
-  "fields": [
-    { "name": "Id", "type": "int", "isPrimaryKey": true, "isIdentity": true },
-    { "name": "Name", "type": "nvarchar", "length": 200, "nullable": false },
-    { "name": "Price", "type": "decimal", "precision": 18, "scale": 2 },
-    { "name": "IsPublished", "type": "bit", "default": false }
-  ]
-}
-
-SchemaLoader loader = new SchemaLoader(connectionString);
-loader.Apply("Product.schema.json");
-
-### 2. Or change your schema
-
-{
-  "entity": "Product",
-  "previousEntityName": "Item" 
-  "schema": "dbo",
-  "fields": [
-    { "name": "Id", "type": "int", "isPrimaryKey": true, "isIdentity": true },
-    { "name": "ProductName", "type": "nvarchar", "length": 200, "nullable": false, "previousName": "Name" },
-    { "name": "Price", "type": "decimal", "precision": 18, "scale": 2,  "previousName": "Current Price" },
-    { "name": "SalePrice", "type": "decimal", "precision": 18, "scale": 2, "nullable": true, "delete" : true },
-    { "name": "IsPublished", "type": "bit", "default": false }
-  ]
-}
+Open the solution solid-sql-tables.sln in Visual Studio 2022 or later.
+Start by looking at solid-sql-tables.tests/docs.README.md which will show you how to step through the tests
+The tests start simply and build in complexity
+They are the fastest way to understand the library.

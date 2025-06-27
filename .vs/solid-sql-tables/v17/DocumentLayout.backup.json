@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{564A55F2-EB20-D9F2-3BEB-35168012D04A}|src\\SolidSQLTables\\solid-sql-tables.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solidsqltables\\docs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{564A55F2-EB20-D9F2-3BEB-35168012D04A}|src\\SolidSQLTables\\solid-sql-tables.csproj|solutionrelative:src\\solidsqltables\\docs\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{564A55F2-EB20-D9F2-3BEB-35168012D04A}|src\\SolidSQLTables\\solid-sql-tables.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solidsqltables\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{564A55F2-EB20-D9F2-3BEB-35168012D04A}|src\\SolidSQLTables\\solid-sql-tables.csproj|solutionrelative:src\\solidsqltables\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D686906B-A0C6-4A1F-AE7F-13D02622A154}|src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj|c:\\yart\\clients and jobs\\solid-sql-tables\\src\\solid-sql-tables.tests\\solid-sql-tables.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\SolidSQLTables\\docs\\README.md",
-              "RelativeDocumentMoniker": "src\\SolidSQLTables\\docs\\README.md",
-              "ToolTip": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\SolidSQLTables\\docs\\README.md",
-              "RelativeToolTip": "src\\SolidSQLTables\\docs\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\SolidSQLTables\\README.md",
+              "RelativeDocumentMoniker": "src\\SolidSQLTables\\README.md",
+              "ToolTip": "C:\\Yart\\Clients and Jobs\\solid-sql-tables\\src\\SolidSQLTables\\README.md",
+              "RelativeToolTip": "src\\SolidSQLTables\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-06-27T03:32:16.437Z",
               "EditorCaption": ""
