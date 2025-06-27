@@ -24,8 +24,8 @@ This library is opinionated by design:
   We discourage the use of nullable columns. Make data intentional.
 
 - ✅ **A focused set of SQL types is supported.**  
-  Most CMS/eCommerce systems only need a handful: `int`, `nvarchar`, `bit`, `datetime`, etc.  
-  You’re welcome to contribute additional types if needed — just open a pull request!
+  Most CMS/eCommerce systems only need a handful: `nvarchar`, `bit`, `datetime`, `int` etc.  
+  You’re welcome to contribute additional types if needed — just open a pull request and extend the very clear tests!
 
 ---
 
