@@ -19,10 +19,4 @@ It's designed for structured data systems — like eCommerce and content managem
 
 ## 🎯 Installation
 
-Open the solution solid-sql-tables.sln in Visual Studio 2022 or later.
-
-Start by looking at solid-sql-tables.tests/docs.README.md which will show you how to step through the tests
-
-The tests start simply and build in complexity
-
-They are the fastest way to understand the library.
+Open the solution solid-sql-tables.sln in Visual Studio 2022 or later. Start by looking at solid-sql-tables.tests/README.md which will show you how to step through the tests. The tests start simply and build in complexity. They are the fastest way to understand the library.
