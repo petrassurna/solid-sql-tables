@@ -52,3 +52,6 @@ out/
 ## Other
 *.DS_Store
 Thumbs.db
+*.db-shm
+*.db-wal
+*.vsidx
