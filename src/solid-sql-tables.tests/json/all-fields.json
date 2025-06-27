@@ -1,0 +1,23 @@
+{
+  "entity": "Product",
+  "schema": "dbo",
+  "fields": [
+    {
+      "name": "Name",
+      "type": "nvarchar",
+      "length": 200
+    },
+    {
+      "name": "Content",
+      "type": "nvarchar(max)"
+    },
+    {
+      "name": "Price",
+      "type": "money"
+    },
+    {
+      "name": "Published",
+      "type": "datetime"
+    }
+  ]
+}
