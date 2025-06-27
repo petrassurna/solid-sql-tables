@@ -12,7 +12,7 @@ It's designed for structured data systems — like eCommerce — where performan
 - ✅ Create SQL Server tables dynamically at runtime
 - ✅ Every field is a **real column**, not a blob or EAV record
 - ✅ Define schema in JSON — clean, declarative, and versionable
-- ✅ Enforced types: `nvarchar`, `decimal`, `bit`, etc.
+- ✅ Enforced types: `nvarchar`, `decimal`, `bit`, etc. Types that are common in CMS systems like WordPress custom fields or Umbraco document types
 - ✅ Built with .NET + SQL SMO
 
 ---
