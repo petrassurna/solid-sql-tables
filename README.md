@@ -3,7 +3,7 @@
 > Because product fields should be real SQL columns — not blobs, not JSONB, and definitely not WordPress-style postmeta.
 
 **Solid SQL Tables** is a runtime schema engine for SQL Server that reads JSON definitions and creates actual, strongly-typed database tables and columns.  
-It's designed for structured data systems — like eCommerce — where performance, clarity, and integrity matter.
+It's designed for structured data systems — like eCommerce and content management — where performance, clarity, and integrity matter.
 
 ---
 
