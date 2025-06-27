@@ -1,0 +1,54 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Uncomment if you're using Rider
+# .idea/
+
+## Visual Studio Code
+.vscode/
+
+## Build results
+*.dll
+*.exe
+*.app
+*.log
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## MSBuild generated
+*.mdb
+*.pdb
+
+## Configuration files
+appsettings.Development.json
+appsettings.*.json
+
+## SQL Server SMO artifacts
+*.ldf
+*.mdf
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Logs and publish outputs
+*.log
+publish/
+out/
+
+## Other
+*.DS_Store
+Thumbs.db
