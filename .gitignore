@@ -55,3 +55,4 @@ Thumbs.db
 *.db-shm
 *.db-wal
 *.vsidx
+/.vs/solid-sql-tables/v17/DocumentLayout.json
