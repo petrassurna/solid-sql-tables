@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid-sql-tables", "src\SolidSQLTables\solid-sql-tables.csproj", "{564A55F2-EB20-D9F2-3BEB-35168012D04A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid-sql-tables.tests", "..\solid-sql-tables.tests\solid-sql-tables.tests.csproj", "{6143B559-EE0E-4280-92B9-9AB242C1B7C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid-sql-tables.tests", "src\solid-sql-tables.tests\solid-sql-tables.tests.csproj", "{D686906B-A0C6-4A1F-AE7F-13D02622A154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{564A55F2-EB20-D9F2-3BEB-35168012D04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{564A55F2-EB20-D9F2-3BEB-35168012D04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{564A55F2-EB20-D9F2-3BEB-35168012D04A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6143B559-EE0E-4280-92B9-9AB242C1B7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6143B559-EE0E-4280-92B9-9AB242C1B7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6143B559-EE0E-4280-92B9-9AB242C1B7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6143B559-EE0E-4280-92B9-9AB242C1B7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D686906B-A0C6-4A1F-AE7F-13D02622A154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D686906B-A0C6-4A1F-AE7F-13D02622A154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D686906B-A0C6-4A1F-AE7F-13D02622A154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D686906B-A0C6-4A1F-AE7F-13D02622A154}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
