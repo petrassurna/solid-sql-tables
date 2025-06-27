@@ -13,7 +13,7 @@ It's designed for structured data systems — like eCommerce and content managem
 - ✅ Every field is a **real column**, not a blob or EAV (entity-attribute-value) record
 - ✅ Querying should be intuitive and as fast as possible, as that's what the world needs
 - ✅ Define schema in JSON — clean, declarative, and versionable
-- ✅ Enforced types: `nvarchar`, `int`, `bit`, etc. Types that are common in CMS systems like WordPress custom fields or Umbraco document types
+- ✅ Enforced types: `nvarchar`, `int`, `float`, `datetime`, `bit`, etc. Types that are common in CMS systems like WordPress custom fields or Umbraco document types
 - ✅ Built with .NET + SQL SMO
 
 ---
